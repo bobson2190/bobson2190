@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @bobson2190.
 - 👀 I’m interested in hacking/programming.
-<!-- 🌱 I’m currently learning in itgen.io.
-- 💞️ I’m looking to collaborate on a Android app project.-->
-- 📫 How to reach me:
+- - 📫 How to reach me:
 Discord:bobthebuildor,
 Snapchat:bobson2620 or by
 Telegram:@bobson2029
+<!-- 🌱 I’m currently learning in itgen.io.
+- 💞️ I’m looking to collaborate on a Android app project.-->
+
 <!-- or by itgen.io. -->
 
 <!---
